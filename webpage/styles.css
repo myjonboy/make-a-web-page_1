@@ -1,0 +1,33 @@
+
+body {
+	max-width: 1100px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0 auto;
+    color: #ffe;
+    background-color: black;
+}
+
+h1 {
+    background-color:darkred;
+    padding: 20px 0 3px 20px;
+}
+
+h2 {
+    padding-top: 0;
+    margin-top: 5px;
+}
+
+.blueWrapper {
+    background-color: darkblue;
+    padding: 5px 10px;
+    margin: 20px 0;
+    border: 1px solid cyan;
+}
+
+.blueBorder {
+    border: 5px dashed red;
+}
+
+article.yellow {
+    color: yellow;
+}
